@@ -1,0 +1,3 @@
+[submodule "emux"]
+	path = emux
+	url = ./elpa/emux/
