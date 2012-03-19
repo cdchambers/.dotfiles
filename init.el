@@ -141,8 +141,7 @@
 (global-set-key (kbd "M-X") 'smex-major-mode-commands)
 (global-set-key (kbd "C-,") 'indent-buffer)
 (global-set-key (kbd "C-S-r") 'rotate-windows)
-(global-set-key (kbd "C-x g") 'my-magit-status)
-
+(global-set-key (kbd "C-x g") 'magit-status)
 
 (setq
  term-bind-key-alist
